@@ -50,6 +50,7 @@ sklearn = 1.2.1
 
 ## External Validation
 ![table4](https://github.com/basiralab/RepNet/assets/23126077/ef3a15aa-b24e-4c8f-9724-f3f21232d7d0)
+We display the IQR scores calculated by index ranks of each biomarker obtained from different trainings of each GNN model. IQR scores shows the deviation of each biomarker across different trainings of each GNN. A few insights into the reproducibility of a GNN model can be inferred by examining the IQR scores, where biomarkers having IQR scores closer to 0 indicate better reproducibility. We observe that GCN has higher reproducibility than DiffPool, as reflected by the lower IQR scores across all biomarkers. We also notice that both GCN and DiffPool have lower IQR scores than the other three models, indicating greater reproducibility. Another significant finding is that there is a noticeable quantitative difference between the reproducibility of GCN and DiffPool compared to the other models. Our findings are more consistent with RepNet quantification method, providing further evidence of RepNet superiority over RG-Select.
 
 ## Paper Link
 *https://link.springer.com/chapter/10.1007/978-3-031-46005-0_4*
