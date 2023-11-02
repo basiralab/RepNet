@@ -4,7 +4,7 @@ Please contact hizircanbayram@gmail.com for inquiries. Thanks.
 # Introduction
 This work is accepted at the MICCAI PRIME workshop 2023.
 
-![FMDGNN pipeline](Fig1.png)
+![mainfigure](https://github.com/basiralab/RepNet/assets/23126077/849f834f-9060-4bca-bc03-066e924f498a)
 
 >**RepNet for Quantifying the Reproducibility of Graph Neural Networks in Multiview Brain Connectivity Biomarker Discovery**
 >
@@ -65,7 +65,7 @@ sklearn = 1.2.1
 }
 ```
 ## External Validation
-![External Validation Results of the GNN Architectures](https://github.com/basiralab/Fed-CBT/assets/23126077/a491d4d4-f174-4fe6-9e93-323326145973)
+![table4](https://github.com/basiralab/RepNet/assets/23126077/ef3a15aa-b24e-4c8f-9724-f3f21232d7d0)
 
 ## License
 Our code is released under MIT License (see LICENSE file for details).
