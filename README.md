@@ -19,13 +19,13 @@ This work is accepted at the MICCAI PRIME workshop 2023.
 ## Code
 This code was implemented using Python 3.9.13
 
-## Requirements (be updated)
-torch = 2.0.1 + cu118 \
-numpy = 1.26.1 \
-networkx = 2.8.5 \
-scipy = 1.11.1 \
-torch_geometric = 2.3.0 \
-sklearn = 1.2.1 
+## Requirements
+torch = 1.12.1 + cpu \
+numpy = 1.23.1 \
+scipy = 1.9.2 \
+torch_geometric = 2.1.0.post1 \
+sklearn = 1.1.2 \
+pandas = 1.5.0
 
 ## Components of RepNet Code
 | Component | Content |
